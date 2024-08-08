@@ -1,0 +1,70 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual environment
+venv/
+.env/
+.envrc/
+*.venv/
+*.env/
+
+# Python distribution and packaging
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg-info/
+MANIFEST
+
+# PyInstaller
+*.spec
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test and coverage reports
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.tmp
+*.test
+
+# Other
+*.swp
+*.swo
+*.swn
+*.DS_Store
+*.idea/
+*.project
+*.classpath
+
+# MacOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# End of file
